@@ -16,10 +16,10 @@
 		"test": "eslint \"**/*.{js,jsx}\" && jest"
 	},
 	"dependencies": {
-		"@babel/core": "^7.20.7",
+		"@babel/core": "^7.23.2",
 		"@babel/plugin-proposal-class-properties": "^7.18.6",
 		"@babel/plugin-transform-react-jsx": "^7.20.7",
-		"@babel/preset-env": "^7.20.2",
+		"@babel/preset-env": "^7.22.7",
 		"@babel/preset-typescript": "^7.18.6",
 		"babel-jest": "^29.3.1",
 		"identity-obj-proxy": "^3.0.0",
